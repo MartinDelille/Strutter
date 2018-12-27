@@ -1,7 +1,7 @@
 .lock
 .lock-info
 .fcpcache
-*/Analysis Files/
-*/Render Files/
+**/Analysis Files/
+**/Render Files/
 ._Render Files
 __Sync__
